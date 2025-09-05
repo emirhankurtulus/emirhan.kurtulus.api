@@ -1,0 +1,224 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\FOA004\\Projects\\EmirhanKurtulus\\emirhan.kurtulus.api\\emirhan.kurtulus.api.infrastructure\\emirhan.kurtulus.api.infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\FOA004\\Projects\\EmirhanKurtulus\\emirhan.kurtulus.api\\emirhan.kurtulus.api.application\\emirhan.kurtulus.api.application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FOA004\\Projects\\EmirhanKurtulus\\emirhan.kurtulus.api\\emirhan.kurtulus.api.application\\emirhan.kurtulus.api.application.csproj",
+        "projectName": "emirhan.kurtulus.api.application",
+        "projectPath": "C:\\Users\\FOA004\\Projects\\EmirhanKurtulus\\emirhan.kurtulus.api\\emirhan.kurtulus.api.application\\emirhan.kurtulus.api.application.csproj",
+        "packagesPath": "C:\\Users\\FOA004\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FOA004\\Projects\\EmirhanKurtulus\\emirhan.kurtulus.api\\emirhan.kurtulus.api.application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\FOA004\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/mehyaa/index.json": {},
+          "https://pkgs.dev.azure.com/vtcenerji/Ornitorenk/_packaging/feed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\FOA004\\Projects\\EmirhanKurtulus\\emirhan.kurtulus.api\\emirhan.kurtulus.api.core\\emirhan.kurtulus.api.core.csproj": {
+                "projectPath": "C:\\Users\\FOA004\\Projects\\EmirhanKurtulus\\emirhan.kurtulus.api\\emirhan.kurtulus.api.core\\emirhan.kurtulus.api.core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[13.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\FOA004\\Projects\\EmirhanKurtulus\\emirhan.kurtulus.api\\emirhan.kurtulus.api.core\\emirhan.kurtulus.api.core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FOA004\\Projects\\EmirhanKurtulus\\emirhan.kurtulus.api\\emirhan.kurtulus.api.core\\emirhan.kurtulus.api.core.csproj",
+        "projectName": "emirhan.kurtulus.api.core",
+        "projectPath": "C:\\Users\\FOA004\\Projects\\EmirhanKurtulus\\emirhan.kurtulus.api\\emirhan.kurtulus.api.core\\emirhan.kurtulus.api.core.csproj",
+        "packagesPath": "C:\\Users\\FOA004\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FOA004\\Projects\\EmirhanKurtulus\\emirhan.kurtulus.api\\emirhan.kurtulus.api.core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\FOA004\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/mehyaa/index.json": {},
+          "https://pkgs.dev.azure.com/vtcenerji/Ornitorenk/_packaging/feed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\FOA004\\Projects\\EmirhanKurtulus\\emirhan.kurtulus.api\\emirhan.kurtulus.api.infrastructure\\emirhan.kurtulus.api.infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FOA004\\Projects\\EmirhanKurtulus\\emirhan.kurtulus.api\\emirhan.kurtulus.api.infrastructure\\emirhan.kurtulus.api.infrastructure.csproj",
+        "projectName": "emirhan.kurtulus.api.infrastructure",
+        "projectPath": "C:\\Users\\FOA004\\Projects\\EmirhanKurtulus\\emirhan.kurtulus.api\\emirhan.kurtulus.api.infrastructure\\emirhan.kurtulus.api.infrastructure.csproj",
+        "packagesPath": "C:\\Users\\FOA004\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FOA004\\Projects\\EmirhanKurtulus\\emirhan.kurtulus.api\\emirhan.kurtulus.api.infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\FOA004\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/mehyaa/index.json": {},
+          "https://pkgs.dev.azure.com/vtcenerji/Ornitorenk/_packaging/feed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\FOA004\\Projects\\EmirhanKurtulus\\emirhan.kurtulus.api\\emirhan.kurtulus.api.application\\emirhan.kurtulus.api.application.csproj": {
+                "projectPath": "C:\\Users\\FOA004\\Projects\\EmirhanKurtulus\\emirhan.kurtulus.api\\emirhan.kurtulus.api.application\\emirhan.kurtulus.api.application.csproj"
+              },
+              "C:\\Users\\FOA004\\Projects\\EmirhanKurtulus\\emirhan.kurtulus.api\\emirhan.kurtulus.api.core\\emirhan.kurtulus.api.core.csproj": {
+                "projectPath": "C:\\Users\\FOA004\\Projects\\EmirhanKurtulus\\emirhan.kurtulus.api\\emirhan.kurtulus.api.core\\emirhan.kurtulus.api.core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
