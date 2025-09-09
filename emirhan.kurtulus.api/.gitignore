@@ -40,6 +40,10 @@ out/
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*
 
+# Build outputs
+bin/
+obj/
+
 # NUNIT
 *.VisualState.xml
 TestResult.xml
