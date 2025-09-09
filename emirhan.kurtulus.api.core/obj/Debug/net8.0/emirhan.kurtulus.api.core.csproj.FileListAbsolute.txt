@@ -1,0 +1,13 @@
+C:\Users\FOA004\Projects\EmirhanKurtulus\emirhan.kurtulus.api\emirhan.kurtulus.api.core\obj\Debug\net8.0\emirhan.kurtulus.api.core.csproj.AssemblyReference.cache
+C:\Users\FOA004\Projects\EmirhanKurtulus\emirhan.kurtulus.api\emirhan.kurtulus.api.core\obj\Debug\net8.0\emirhan.kurtulus.api.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FOA004\Projects\EmirhanKurtulus\emirhan.kurtulus.api\emirhan.kurtulus.api.core\obj\Debug\net8.0\emirhan.kurtulus.api.core.AssemblyInfoInputs.cache
+C:\Users\FOA004\Projects\EmirhanKurtulus\emirhan.kurtulus.api\emirhan.kurtulus.api.core\obj\Debug\net8.0\emirhan.kurtulus.api.core.AssemblyInfo.cs
+C:\Users\FOA004\Projects\EmirhanKurtulus\emirhan.kurtulus.api\emirhan.kurtulus.api.core\obj\Debug\net8.0\emirhan.kurtulus.api.core.csproj.CoreCompileInputs.cache
+C:\Users\FOA004\Projects\EmirhanKurtulus\emirhan.kurtulus.api\emirhan.kurtulus.api.core\obj\Debug\net8.0\emirhan.kurtulus.api.core.sourcelink.json
+C:\Users\FOA004\Projects\EmirhanKurtulus\emirhan.kurtulus.api\emirhan.kurtulus.api.core\bin\Debug\net8.0\emirhan.kurtulus.api.core.deps.json
+C:\Users\FOA004\Projects\EmirhanKurtulus\emirhan.kurtulus.api\emirhan.kurtulus.api.core\bin\Debug\net8.0\emirhan.kurtulus.api.core.dll
+C:\Users\FOA004\Projects\EmirhanKurtulus\emirhan.kurtulus.api\emirhan.kurtulus.api.core\bin\Debug\net8.0\emirhan.kurtulus.api.core.pdb
+C:\Users\FOA004\Projects\EmirhanKurtulus\emirhan.kurtulus.api\emirhan.kurtulus.api.core\obj\Debug\net8.0\emirhan.kurtulus.api.core.dll
+C:\Users\FOA004\Projects\EmirhanKurtulus\emirhan.kurtulus.api\emirhan.kurtulus.api.core\obj\Debug\net8.0\refint\emirhan.kurtulus.api.core.dll
+C:\Users\FOA004\Projects\EmirhanKurtulus\emirhan.kurtulus.api\emirhan.kurtulus.api.core\obj\Debug\net8.0\emirhan.kurtulus.api.core.pdb
+C:\Users\FOA004\Projects\EmirhanKurtulus\emirhan.kurtulus.api\emirhan.kurtulus.api.core\obj\Debug\net8.0\ref\emirhan.kurtulus.api.core.dll

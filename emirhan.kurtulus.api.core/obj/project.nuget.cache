@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "XfgXLS3S7Tc=",
+  "dgSpecHash": "y9HCcpnFOWA=",
   "success": true,
   "projectFilePath": "C:\\Users\\FOA004\\Projects\\EmirhanKurtulus\\emirhan.kurtulus.api\\emirhan.kurtulus.api.core\\emirhan.kurtulus.api.core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\FOA004\\.nuget\\packages\\mongodb.bson\\3.4.3\\mongodb.bson.3.4.3.nupkg.sha512",
+    "C:\\Users\\FOA004\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\FOA004\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

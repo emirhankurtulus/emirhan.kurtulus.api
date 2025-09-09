@@ -1,0 +1,13 @@
+﻿using MediatR;
+using Microsoft.AspNetCore.Mvc;
+
+namespace emirhan.kurtulus.api.Controllers;
+
+[ApiController]
+[Route("/[controller]s")]
+public class ApiControllerBase : ControllerBase
+{
+    private ISender _mediator = null!;
+
+    protected ISender Mediator => _mediator ??= HttpContext.RequestServices.GetRequiredService<ISender>();
+}

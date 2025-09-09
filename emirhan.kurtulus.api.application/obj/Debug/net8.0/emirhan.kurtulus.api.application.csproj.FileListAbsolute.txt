@@ -1,0 +1,16 @@
+C:\Users\FOA004\Projects\EmirhanKurtulus\emirhan.kurtulus.api\emirhan.kurtulus.api.application\obj\Debug\net8.0\emirhan.kurtulus.api.application.csproj.AssemblyReference.cache
+C:\Users\FOA004\Projects\EmirhanKurtulus\emirhan.kurtulus.api\emirhan.kurtulus.api.application\obj\Debug\net8.0\emirhan.kurtulus.api.application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FOA004\Projects\EmirhanKurtulus\emirhan.kurtulus.api\emirhan.kurtulus.api.application\obj\Debug\net8.0\emirhan.kurtulus.api.application.AssemblyInfoInputs.cache
+C:\Users\FOA004\Projects\EmirhanKurtulus\emirhan.kurtulus.api\emirhan.kurtulus.api.application\obj\Debug\net8.0\emirhan.kurtulus.api.application.AssemblyInfo.cs
+C:\Users\FOA004\Projects\EmirhanKurtulus\emirhan.kurtulus.api\emirhan.kurtulus.api.application\obj\Debug\net8.0\emirhan.kurtulus.api.application.csproj.CoreCompileInputs.cache
+C:\Users\FOA004\Projects\EmirhanKurtulus\emirhan.kurtulus.api\emirhan.kurtulus.api.application\obj\Debug\net8.0\emirhan.kurtulus.api.application.sourcelink.json
+C:\Users\FOA004\Projects\EmirhanKurtulus\emirhan.kurtulus.api\emirhan.kurtulus.api.application\bin\Debug\net8.0\emirhan.kurtulus.api.application.deps.json
+C:\Users\FOA004\Projects\EmirhanKurtulus\emirhan.kurtulus.api\emirhan.kurtulus.api.application\bin\Debug\net8.0\emirhan.kurtulus.api.application.dll
+C:\Users\FOA004\Projects\EmirhanKurtulus\emirhan.kurtulus.api\emirhan.kurtulus.api.application\bin\Debug\net8.0\emirhan.kurtulus.api.application.pdb
+C:\Users\FOA004\Projects\EmirhanKurtulus\emirhan.kurtulus.api\emirhan.kurtulus.api.application\bin\Debug\net8.0\emirhan.kurtulus.api.core.dll
+C:\Users\FOA004\Projects\EmirhanKurtulus\emirhan.kurtulus.api\emirhan.kurtulus.api.application\bin\Debug\net8.0\emirhan.kurtulus.api.core.pdb
+C:\Users\FOA004\Projects\EmirhanKurtulus\emirhan.kurtulus.api\emirhan.kurtulus.api.application\obj\Debug\net8.0\emirhan..F648E888.Up2Date
+C:\Users\FOA004\Projects\EmirhanKurtulus\emirhan.kurtulus.api\emirhan.kurtulus.api.application\obj\Debug\net8.0\emirhan.kurtulus.api.application.dll
+C:\Users\FOA004\Projects\EmirhanKurtulus\emirhan.kurtulus.api\emirhan.kurtulus.api.application\obj\Debug\net8.0\refint\emirhan.kurtulus.api.application.dll
+C:\Users\FOA004\Projects\EmirhanKurtulus\emirhan.kurtulus.api\emirhan.kurtulus.api.application\obj\Debug\net8.0\emirhan.kurtulus.api.application.pdb
+C:\Users\FOA004\Projects\EmirhanKurtulus\emirhan.kurtulus.api\emirhan.kurtulus.api.application\obj\Debug\net8.0\ref\emirhan.kurtulus.api.application.dll
